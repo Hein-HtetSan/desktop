@@ -26,7 +26,7 @@
   },
   "homepage": "https://jseverywhere.io",
   "devDependencies": {
-    "electron": "6.0.0",
+    "electron": "22.3.25",
     "electron-builder": "21.2.0",
     "eslint": "6.1.0",
     "eslint-config-prettier": "6.0.0",
